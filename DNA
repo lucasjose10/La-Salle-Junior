@@ -17,7 +17,7 @@
             <center>
             <!--Avatar-->
             <div class="avatar mx-auto white">
-               <img src="https://scontent-gig2-1.xx.fbcdn.net/v/t1.0-9/1669_979730458769821_257849115912848163_n.jpg?_nc_cat=0&oh=0fbe2f6c4d5fd7ce85cbb753c706b970&oe=5B91948A" width="170" class="rounded-circle img-fluid" alt="FotoEduardo">
+               <img src="hugo.png" width="170" class="rounded-circle img-fluid" alt="FotoEduardo">
             </div>
             <!--Content-->
             <div class="card-body">

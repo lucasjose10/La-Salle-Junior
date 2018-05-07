@@ -14,7 +14,7 @@
       <div class="row">
 
           <!--Grid column-->
-          <div class="col-lg-4 col-md-12 mb-4">
+          <div class="col-lg-2 col-sm-2 col-md-2">
 
 <center>
 
@@ -50,13 +50,188 @@
 
                   </div>
                   </div>
-                  
-</center>
-
-                        </div>
-
-
-
+                  </div>
+                  </div>
+                  <div class="col-lg-2 col-sm-2 col-md-2">
+                  <!--Avatar-->
+                  <center><div class="avatar mx-auto white">
+                      <img src="https://scontent-gig2-1.xx.fbcdn.net/v/t1.0-9/1669_979730458769821_257849115912848163_n.jpg?_nc_cat=0&oh=0fbe2f6c4d5fd7ce85cbb753c706b970&oe=5B91948A" width="170" class="rounded-circle img-fluid" alt="FotoEduardo">
                   </div>
 
+                  <!--Content-->
+                  <div class="card-body">
+                      <h4 class="mt-1">Eduardo Tavares</h4>
+                      <p class="font-weight-bold dark-grey-text">Trainee de SI</p>
+                      <!-- Trigger the modal with a button -->
+                      <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal">Sobre</button>
+
+                        <!-- Modal -->
+                        <div id="myModal" class="modal fade" role="dialog">
+                          <div class="modal-dialog">
+
+                            <!-- Modal content-->
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title">Sobre Eduardo</h5>
+              </div>
+                          <div class="modal-body">
+                <p>Eduardo é um cara maneiro que gosta de jogar League of legends nas horas vagas e que cursa Engenharia Elétrica na Unilasalle
+                </p>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
+              </div>
+            </div>
           </div>
+          </div>
+        </div>
+        </div></center>
+        <div class="col-lg-2 col-sm-2 col-md-2">
+          <!--Avatar-->
+          <center><div class="avatar mx-auto white">
+              <img src="https://scontent-gig2-1.xx.fbcdn.net/v/t1.0-9/1669_979730458769821_257849115912848163_n.jpg?_nc_cat=0&oh=0fbe2f6c4d5fd7ce85cbb753c706b970&oe=5B91948A" width="170" class="rounded-circle img-fluid" alt="FotoEduardo">
+          </div>
+
+          <!--Content-->
+          <div class="card-body">
+              <h4 class="mt-1">Eduardo Tavares</h4>
+              <p class="font-weight-bold dark-grey-text">Trainee de SI</p>
+              <!-- Trigger the modal with a button -->
+              <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal">Sobre</button>
+
+                <!-- Modal -->
+                <div id="myModal" class="modal fade" role="dialog">
+                  <div class="modal-dialog">
+
+                    <!-- Modal content-->
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h5 class="modal-title">Sobre Eduardo</h5>
+      </div>
+                  <div class="modal-body">
+        <p>Eduardo é um cara maneiro que gosta de jogar League of legends nas horas vagas e que cursa Engenharia Elétrica na Unilasalle
+        </p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
+      </div>
+    </div>
+  </div>
+  </div>
+</div>
+</div>
+<div class="col-lg-2 col-sm-2 col-md-2">
+
+<center>
+
+                <!--Avatar-->
+                <div class="avatar mx-auto white">
+                    <img src="https://scontent-gig2-1.xx.fbcdn.net/v/t1.0-9/1669_979730458769821_257849115912848163_n.jpg?_nc_cat=0&oh=0fbe2f6c4d5fd7ce85cbb753c706b970&oe=5B91948A" width="170" class="rounded-circle img-fluid" alt="FotoEduardo">
+                </div>
+
+                <!--Content-->
+                <div class="card-body">
+                    <h4 class="mt-1">Eduardo Tavares</h4>
+                    <p class="font-weight-bold dark-grey-text">Trainee de SI</p>
+                    <!-- Trigger the modal with a button -->
+                    <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal">Sobre</button>
+
+                      <!-- Modal -->
+                      <div id="myModal" class="modal fade" role="dialog">
+                        <div class="modal-dialog">
+
+                          <!-- Modal content-->
+                            <div class="modal-content">
+                              <div class="modal-header">
+                                <h5 class="modal-title">Sobre Eduardo</h5>
+            </div>
+                        <div class="modal-body">
+              <p>Eduardo é um cara maneiro que gosta de jogar League of legends nas horas vagas e que cursa Engenharia Elétrica na Unilasalle
+              </p>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
+            </div>
+          </div>
+
+        </div>
+        </div>
+        </div>
+        </div>
+        <div class="col-lg-2 col-sm-2 col-md-2">
+
+<center>
+
+                        <!--Avatar-->
+                        <div class="avatar mx-auto white">
+                            <img src="https://scontent-gig2-1.xx.fbcdn.net/v/t1.0-9/1669_979730458769821_257849115912848163_n.jpg?_nc_cat=0&oh=0fbe2f6c4d5fd7ce85cbb753c706b970&oe=5B91948A" width="170" class="rounded-circle img-fluid" alt="FotoEduardo">
+                        </div>
+
+                        <!--Content-->
+                        <div class="card-body">
+                            <h4 class="mt-1">Eduardo Tavares</h4>
+                            <p class="font-weight-bold dark-grey-text">Trainee de SI</p>
+                            <!-- Trigger the modal with a button -->
+                            <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal">Sobre</button>
+
+                              <!-- Modal -->
+                              <div id="myModal" class="modal fade" role="dialog">
+                                <div class="modal-dialog">
+
+                                  <!-- Modal content-->
+                                    <div class="modal-content">
+                                      <div class="modal-header">
+                                        <h5 class="modal-title">Sobre Eduardo</h5>
+                    </div>
+                                <div class="modal-body">
+                      <p>Eduardo é um cara maneiro que gosta de jogar League of legends nas horas vagas e que cursa Engenharia Elétrica na Unilasalle
+                      </p>
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
+                    </div>
+                  </div>
+
+                </div>
+                </div>
+                </div>
+                </div>
+                <div class="col-lg-2 col-sm-2 col-md-2">
+
+      <center>
+
+                                <!--Avatar-->
+                                <div class="avatar mx-auto white">
+                                    <img src="https://scontent-gig2-1.xx.fbcdn.net/v/t1.0-9/1669_979730458769821_257849115912848163_n.jpg?_nc_cat=0&oh=0fbe2f6c4d5fd7ce85cbb753c706b970&oe=5B91948A" width="170" class="rounded-circle img-fluid" alt="FotoEduardo">
+                                </div>
+
+                                <!--Content-->
+                                <div class="card-body">
+                                    <h4 class="mt-1">Eduardo Tavares</h4>
+                                    <p class="font-weight-bold dark-grey-text">Trainee de SI</p>
+                                    <!-- Trigger the modal with a button -->
+                                    <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal">Sobre</button>
+
+                                      <!-- Modal -->
+                                      <div id="myModal" class="modal fade" role="dialog">
+                                        <div class="modal-dialog">
+
+                                          <!-- Modal content-->
+                                            <div class="modal-content">
+                                              <div class="modal-header">
+                                                <h5 class="modal-title">Sobre Eduardo</h5>
+                            </div>
+                                        <div class="modal-body">
+                              <p>Eduardo é um cara maneiro que gosta de jogar League of legends nas horas vagas e que cursa Engenharia Elétrica na Unilasalle
+                              </p>
+                            </div>
+                            <div class="modal-footer">
+                              <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
+                            </div>
+                          </div>
+
+                        </div>
+                        </div>
+                        </div>
+                        </div>
+</div></center>

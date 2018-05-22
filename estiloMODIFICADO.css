@@ -1,0 +1,28 @@
+
+.op {
+    width: 300px;
+    position: relative;
+    opacity: 1.0;
+    transition: 0.3s ease;
+    cursor: pointer;
+    filter: saturate(120%);
+}
+
+.op:hover {
+    transform: scale(1.2, 1.2); /** default is 1, scale it to 1.5 */
+    opacity: 1;
+}
+.espaço{
+
+      width: 105%;
+}
+.btn-default {
+    color: #000000;
+    background-color: #bfbfbf;
+    border-color: #bfbfbf;
+}
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open>.dropdown-toggle.btn-default {
+    color: #fff;
+    background-color: #0F61AB;
+    border-color: #0F61AB;
+}
